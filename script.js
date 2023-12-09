@@ -3,7 +3,7 @@ import {
     generateResults,
     initSeekr
 }
-    from './navexsearchlib/seekr.js'
+    from './seekr.js'
 
 //Initialize Seekr JS
 
